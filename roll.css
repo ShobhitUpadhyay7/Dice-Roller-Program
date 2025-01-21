@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+label {
+  font-size: large;
+  font-weight: bold;
+}
+button {
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+  color: white;
+  background-color: hsl(180, 78%, 40%);
+}
+input {
+  text-align: center;
+}
+#images img {
+  height: 100px;
+  width: 100px;
+}
+#result {
+  font-size: large;
+  font-weight: bold;
+}
+button:hover {
+  background-color: hsl(180, 78%, 55%);
+}
+button:active {
+  background-color: hsl(180, 78%, 75%);
+}
